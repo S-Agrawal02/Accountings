@@ -1,0 +1,12 @@
+c:\users\acer\documents\visual studio 2012\Projects\Project_Registry\Project_Registry\bin\Debug\Project_Registry.exe.config
+c:\users\acer\documents\visual studio 2012\Projects\Project_Registry\Project_Registry\bin\Debug\Project_Registry.exe
+c:\users\acer\documents\visual studio 2012\Projects\Project_Registry\Project_Registry\bin\Debug\Project_Registry.pdb
+c:\users\acer\documents\visual studio 2012\Projects\Project_Registry\Project_Registry\obj\Debug\Project_Registry.Form1.resources
+c:\users\acer\documents\visual studio 2012\Projects\Project_Registry\Project_Registry\obj\Debug\Project_Registry.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2012\Projects\Project_Registry\Project_Registry\obj\Debug\Project_Registry.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2012\Projects\Project_Registry\Project_Registry\obj\Debug\Project_Registry.exe
+c:\users\acer\documents\visual studio 2012\Projects\Project_Registry\Project_Registry\obj\Debug\Project_Registry.pdb
+c:\users\acer\documents\visual studio 2012\Projects\Project_Registry\Project_Registry\obj\Debug\Project_Registry.Form2.resources
+c:\users\acer\documents\visual studio 2012\Projects\Project_Registry\Project_Registry\obj\Debug\Project_Registry.Form3.resources
+c:\users\acer\documents\visual studio 2012\Projects\Project_Registry\Project_Registry\obj\Debug\Project_Registry.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2012\Projects\Project_Registry\Project_Registry\obj\Debug\Project_Registry.Form4.resources
